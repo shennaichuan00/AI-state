@@ -1,0 +1,6 @@
+{
+  "name": "PM State Machine Presentation",
+  "description": "An interactive, dynamic PPT presentation and state machine visualizer designed for product manager video content creation, explaining campaign/coupon states, transitions, and edge cases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
